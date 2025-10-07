@@ -1,3 +1,0 @@
-# System packages required for the app
-# Streamlit Cloud will install these via apt-get
-
