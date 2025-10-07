@@ -1,0 +1,1120 @@
+{
+  "test_cases": [
+    {
+      "case_id": "TC001",
+      "demographics": {
+        "age": 35,
+        "gender": "Female",
+        "occupation": "Software Engineer"
+      },
+      "case_data": {
+        "presenting_complaint": "Severe headaches for past 3 months, throbbing, bursting pain mainly on left temple",
+        "onset": "Started after a stressful project deadline",
+        "duration": "3 months, occurring 3-4 times per week",
+        "course": "Getting progressively worse",
+        "etiology": "Stress, overwork, suppressed grief from mother's death 6 months ago",
+        "mental_emotional": [
+          "Weeps alone, cannot cry in front of others",
+          "Consolation makes her feel worse",
+          "Dwells on past grief constantly",
+          "Reserved, closed personality",
+          "Difficulty expressing emotions"
+        ],
+        "generals": [
+          "Chilly patient, sensitive to cold",
+          "Worse in sun, headaches from sun exposure"
+        ],
+        "thermal": "Cold (worse cold, desires warmth)",
+        "cravings": ["Salt", "Salty foods like chips and pickles"],
+        "aversions": ["Bread", "Fatty foods"],
+        "sleep": ["Wakes at 3 AM unable to sleep", "Unrefreshing sleep"],
+        "dreams": ["Dreams of dead mother"],
+        "past_history": ["History of recurrent cold sores on lips"],
+        "family_history": ["Mother died of cancer", "Father has hypertension"],
+        "lifestyle": ["Sedentary job", "Long computer hours", "Irregular meals"],
+        "particulars": [
+          {
+            "section": "Head",
+            "description": "Left-sided throbbing headache, worse 10-11 AM",
+            "modalities_better": ["Lying down in dark room", "Pressure"],
+            "modalities_worse": ["Sun exposure", "10-11 AM", "Mental exertion"],
+            "concomitants": ["Nausea with headache"]
+          }
+        ]
+      },
+      "expected_remedy": "Natrum Muriaticum",
+      "expected_potency": "200C",
+      "key_indicators": [
+        "Grief with inability to cry in company",
+        "Consolation aggravates",
+        "Salt craving",
+        "Sun headaches at 10-11 AM",
+        "Reserved, closed personality",
+        "Cold sores history"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC002",
+      "demographics": {
+        "age": 8,
+        "gender": "Male",
+        "occupation": "Student"
+      },
+      "case_data": {
+        "presenting_complaint": "Severe teething pain, extremely irritable, screaming inconsolably",
+        "onset": "Sudden, 2 days ago when molars started coming",
+        "duration": "2 days",
+        "course": "Acute, getting worse at night",
+        "etiology": "Teething",
+        "mental_emotional": [
+          "Extremely irritable, nothing pleases him",
+          "Wants to be carried constantly",
+          "Throws toys away then wants them back",
+          "Screaming, inconsolable",
+          "Strikes mother when in pain"
+        ],
+        "generals": ["Hot, sweaty child"],
+        "thermal": "Hot (worse warmth)",
+        "cravings": [],
+        "aversions": [],
+        "sleep": ["Sleepless from pain", "Worse at night"],
+        "dreams": [],
+        "past_history": ["Generally healthy child"],
+        "family_history": ["Mother has migraines"],
+        "lifestyle": ["Active child", "Good appetite normally"],
+        "particulars": [
+          {
+            "section": "Face",
+            "description": "One cheek red and hot, other pale",
+            "modalities_better": ["Being carried", "Rocking"],
+            "modalities_worse": ["Night", "Lying down", "Warmth"],
+            "concomitants": ["Green diarrhea with teething"]
+          }
+        ]
+      },
+      "expected_remedy": "Chamomilla",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Extreme irritability, nothing pleases",
+        "Wants to be carried",
+        "One cheek red, one pale",
+        "Teething with green diarrhea",
+        "Pain drives to despair",
+        "Worse at night"
+      ],
+      "difficulty_level": "Easy"
+    },
+    {
+      "case_id": "TC003",
+      "demographics": {
+        "age": 45,
+        "gender": "Male",
+        "occupation": "Business Executive"
+      },
+      "case_data": {
+        "presenting_complaint": "Chronic indigestion, bloating, constipation for 6 months",
+        "onset": "Gradual onset after starting high-stress job",
+        "duration": "6 months",
+        "course": "Chronic, worse with stress",
+        "etiology": "Stress, irregular meals, excessive coffee",
+        "mental_emotional": [
+          "Very irritable, especially in morning",
+          "Impatient, cannot tolerate delays",
+          "Workaholic, perfectionist",
+          "Angry outbursts at staff",
+          "Sensitive to criticism"
+        ],
+        "generals": ["Chilly, sensitive to cold and drafts"],
+        "thermal": "Cold (worse cold, desires warmth)",
+        "cravings": ["Spicy food", "Stimulants", "Alcohol"],
+        "aversions": [],
+        "sleep": [
+          "Difficulty falling asleep until 3 AM",
+          "Wakes at 5 AM, cannot go back to sleep",
+          "Unrefreshing sleep, tired on waking"
+        ],
+        "dreams": ["Dreams of business, work stress"],
+        "past_history": ["History of hemorrhoids", "Frequent headaches"],
+        "family_history": ["Father had peptic ulcer"],
+        "lifestyle": [
+          "Sedentary desk job",
+          "Excessive coffee (6-8 cups daily)",
+          "Irregular meals",
+          "High alcohol consumption",
+          "Smokes occasionally"
+        ],
+        "particulars": [
+          {
+            "section": "Abdomen",
+            "description": "Bloating immediately after eating, constipation with ineffectual urging",
+            "modalities_better": ["Warm applications", "After stool (if passes)", "Evening"],
+            "modalities_worse": ["Morning", "After eating", "Coffee", "Alcohol", "Spices"],
+            "concomitants": ["Hemorrhoids", "Morning headaches"]
+          }
+        ]
+      },
+      "expected_remedy": "Nux Vomica",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Type-A personality, workaholic",
+        "Irritable, especially morning",
+        "Digestive issues from stimulants",
+        "Constipation with urging",
+        "Chilly, worse cold",
+        "Sedentary lifestyle with stimulants"
+      ],
+      "difficulty_level": "Easy"
+    },
+    {
+      "case_id": "TC004",
+      "demographics": {
+        "age": 28,
+        "gender": "Female",
+        "occupation": "Teacher"
+      },
+      "case_data": {
+        "presenting_complaint": "Recurrent urinary tract infections, burning pain during urination",
+        "onset": "Started 3 days ago, third episode in 6 months",
+        "duration": "3 days acute, recurrent pattern",
+        "course": "Acute episode, severe",
+        "etiology": "After sexual intercourse",
+        "mental_emotional": [
+          "Anxious about health",
+          "Restless, cannot sit still",
+          "Fastidious about cleanliness"
+        ],
+        "generals": ["Chilly but restless"],
+        "thermal": "Cold (worse cold, desires warmth)",
+        "cravings": ["Warm drinks"],
+        "aversions": [],
+        "sleep": ["Restless, tosses in bed", "Wakes frequently"],
+        "dreams": ["Anxious dreams"],
+        "past_history": ["History of anxiety", "Recurrent UTIs"],
+        "family_history": ["Mother has diabetes"],
+        "lifestyle": ["Active lifestyle", "Yoga practitioner"],
+        "particulars": [
+          {
+            "section": "Urinary",
+            "description": "Violent burning pain before, during, and after urination. Constant urge to urinate with only drops passing",
+            "modalities_better": ["Warmth", "Warm applications"],
+            "modalities_worse": ["Cold", "Night", "Touch"],
+            "concomitants": ["Blood in urine", "Severe burning"]
+          }
+        ]
+      },
+      "expected_remedy": "Cantharis",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Violent burning before, during, after urination",
+        "Constant urge with drops",
+        "Blood in urine",
+        "Restless, anxious",
+        "Acute cystitis presentation"
+      ],
+      "difficulty_level": "Easy"
+    },
+    {
+      "case_id": "TC005",
+      "demographics": {
+        "age": 52,
+        "gender": "Female",
+        "occupation": "Homemaker"
+      },
+      "case_data": {
+        "presenting_complaint": "Menopausal symptoms - hot flashes, irritability, depression for 8 months",
+        "onset": "Started with irregular periods 8 months ago",
+        "duration": "8 months",
+        "course": "Progressive, getting worse",
+        "etiology": "Menopause, feeling burdened by family responsibilities",
+        "mental_emotional": [
+          "Indifferent to family, doesn't care about loved ones",
+          "Irritable, snaps at husband and children",
+          "Depressed, weeps when telling symptoms",
+          "Feels overwhelmed by household duties",
+          "Wants to be alone, aversion to company",
+          "Better from vigorous exercise or dancing"
+        ],
+        "generals": ["Chilly but hot flashes"],
+        "thermal": "Variable",
+        "cravings": ["Vinegar", "Pickles", "Sour things"],
+        "aversions": ["Fat", "Milk", "Meat"],
+        "sleep": ["Poor sleep", "Wakes with hot flashes"],
+        "dreams": [],
+        "past_history": ["3 pregnancies", "History of irregular menses"],
+        "family_history": ["Mother had early menopause"],
+        "lifestyle": ["Busy with household", "No time for self"],
+        "particulars": [
+          {
+            "section": "Female",
+            "description": "Irregular menses, hot flashes multiple times daily, bearing down sensation in pelvis",
+            "modalities_better": ["Vigorous exercise", "Dancing", "Pressure", "Crossing legs"],
+            "modalities_worse": ["Morning", "Before menses", "Standing"],
+            "concomitants": ["Backache", "Vaginal dryness"]
+          },
+          {
+            "section": "Face",
+            "description": "Yellow-brown discoloration across nose and cheeks (chloasma)",
+            "modalities_better": [],
+            "modalities_worse": [],
+            "concomitants": []
+          }
+        ]
+      },
+      "expected_remedy": "Sepia",
+      "expected_potency": "200C",
+      "key_indicators": [
+        "Indifference to loved ones",
+        "Bearing down sensation",
+        "Better from vigorous exercise",
+        "Craving vinegar and sour",
+        "Yellow saddle across nose",
+        "Menopausal symptoms",
+        "Aversion to company"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC006",
+      "demographics": {
+        "age": 6,
+        "gender": "Female",
+        "occupation": "Student"
+      },
+      "case_data": {
+        "presenting_complaint": "Recurrent ear infections, thick yellow-green discharge from ears",
+        "onset": "Started 5 days ago, fourth episode this year",
+        "duration": "5 days acute, recurrent pattern",
+        "course": "Acute, responds to antibiotics but keeps recurring",
+        "etiology": "After getting wet in rain",
+        "mental_emotional": [
+          "Mild, gentle child",
+          "Weepy, wants mother constantly",
+          "Seeks consolation, feels better when hugged",
+          "Clingy, fears being alone"
+        ],
+        "generals": ["Warm-blooded child", "Thirstless despite dry mouth"],
+        "thermal": "Hot (worse warmth, desires cool)",
+        "cravings": ["Ice cream", "Cold drinks"],
+        "aversions": ["Fatty foods", "Butter", "Milk"],
+        "sleep": ["Sleeps with mother", "Needs company to fall asleep"],
+        "dreams": [],
+        "past_history": ["Frequent colds", "Conjunctivitis episodes"],
+        "family_history": ["Father has asthma"],
+        "lifestyle": ["Active child", "Plays outdoors"],
+        "particulars": [
+          {
+            "section": "Ears",
+            "description": "Thick, bland, yellow-green discharge from right ear, pain worse at night",
+            "modalities_better": ["Cool applications", "Open air", "Gentle motion", "Consolation"],
+            "modalities_worse": ["Warm room", "Evening", "Lying down"],
+            "concomitants": ["Blocked nose with thick yellow discharge"]
+          }
+        ]
+      },
+      "expected_remedy": "Pulsatilla",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Mild, weepy, seeks consolation",
+        "Thick, bland, yellow-green discharge",
+        "Thirstless with dry mouth",
+        "Worse warm room, better open air",
+        "Aversion to fats",
+        "Changeable symptoms"
+      ],
+      "difficulty_level": "Easy"
+    },
+    {
+      "case_id": "TC007",
+      "demographics": {
+        "age": 40,
+        "gender": "Male",
+        "occupation": "Lawyer"
+      },
+      "case_data": {
+        "presenting_complaint": "Chronic eczema on hands with deep cracks and fissures, worse in winter",
+        "onset": "Started 2 years ago, gets worse every winter",
+        "duration": "2 years, chronic",
+        "course": "Chronic, seasonal worsening",
+        "etiology": "Started after using harsh chemicals for cleaning",
+        "mental_emotional": [
+          "Anxious, perfectionist",
+          "Worries about details",
+          "Difficulty making decisions"
+        ],
+        "generals": ["Very chilly, cannot tolerate cold"],
+        "thermal": "Cold (worse cold, desires warmth)",
+        "cravings": [],
+        "aversions": [],
+        "sleep": ["Sleeps well"],
+        "dreams": [],
+        "past_history": ["History of constipation"],
+        "family_history": ["Mother has psoriasis"],
+        "lifestyle": ["Desk job", "Washes hands frequently"],
+        "particulars": [
+          {
+            "section": "Hands",
+            "description": "Deep cracks and fissures on palms and fingers, dry, rough, cracked skin that bleeds",
+            "modalities_better": ["Warmth", "Summer", "Covering"],
+            "modalities_worse": ["Winter", "Cold", "Washing hands", "Water"],
+            "concomitants": ["Painful cracks", "Bleeding from cracks"]
+          }
+        ]
+      },
+      "expected_remedy": "Petroleum",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Deep cracks and fissures",
+        "Worse in winter",
+        "Dry, rough, cracked skin",
+        "Hands and fingers affected",
+        "Better in summer",
+        "Worse from washing"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC008",
+      "demographics": {
+        "age": 65,
+        "gender": "Male",
+        "occupation": "Retired"
+      },
+      "case_data": {
+        "presenting_complaint": "Severe joint pain and stiffness, especially in morning, affecting knees and lower back",
+        "onset": "Gradual onset over 5 years",
+        "duration": "5 years, chronic",
+        "course": "Progressive, getting worse",
+        "etiology": "Age, wear and tear, history of physical labor",
+        "mental_emotional": [
+          "Irritable from pain",
+          "Anxious about mobility",
+          "Otherwise calm personality"
+        ],
+        "generals": ["Chilly, worse in cold damp weather"],
+        "thermal": "Cold (worse cold and damp)",
+        "cravings": [],
+        "aversions": [],
+        "sleep": ["Difficulty sleeping due to pain"],
+        "dreams": [],
+        "past_history": ["Manual laborer for 40 years", "History of injuries"],
+        "family_history": ["Father had arthritis"],
+        "lifestyle": ["Now sedentary", "Limited mobility"],
+        "particulars": [
+          {
+            "section": "Joints",
+            "description": "Severe stiffness worse after rest, especially morning. Must move around to loosen up. Pain and stiffness worse on first motion, better with continued gentle motion",
+            "modalities_better": ["Continued motion", "Warmth", "Hot bath", "Rubbing", "Warm weather"],
+            "modalities_worse": ["Rest", "First motion", "Cold", "Damp", "Night", "Before storms"],
+            "concomitants": ["Restless legs at night", "Must keep moving despite pain"]
+          }
+        ]
+      },
+      "expected_remedy": "Rhus Toxicodendron",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Stiffness worse after rest",
+        "Better with continued motion",
+        "Worse first motion, better continued motion",
+        "Worse cold and damp",
+        "Restless, must keep moving",
+        "Better hot bath and rubbing"
+      ],
+      "difficulty_level": "Easy"
+    },
+    {
+      "case_id": "TC009",
+      "demographics": {
+        "age": 32,
+        "gender": "Female",
+        "occupation": "Nurse"
+      },
+      "case_data": {
+        "presenting_complaint": "Severe anxiety and panic attacks before important events, with diarrhea",
+        "onset": "Started 1 year ago before a major exam",
+        "duration": "1 year, episodic",
+        "course": "Recurring before any important event",
+        "etiology": "Anticipatory anxiety",
+        "mental_emotional": [
+          "Severe anticipatory anxiety before exams, presentations, meetings",
+          "Fear of failure, appearing foolish",
+          "Hurried, impulsive",
+          "Irrational fears (heights, bridges, crowds)",
+          "Trembling with anxiety"
+        ],
+        "generals": ["Warm-blooded"],
+        "thermal": "Hot (worse warmth)",
+        "cravings": ["Sweets", "Salt", "Spicy food"],
+        "aversions": [],
+        "sleep": ["Anxious dreams", "Difficulty falling asleep before events"],
+        "dreams": ["Falling", "Failing exams"],
+        "past_history": ["History of stage fright"],
+        "family_history": ["Mother has anxiety disorder"],
+        "lifestyle": ["Active", "Social"],
+        "particulars": [
+          {
+            "section": "Abdomen",
+            "description": "Diarrhea before important events, cramping abdominal pain with anxiety",
+            "modalities_better": ["After passing stool", "Open air", "Cold"],
+            "modalities_worse": ["Anticipation", "Before events", "Warmth"],
+            "concomitants": ["Trembling", "Palpitations", "Sweating"]
+          }
+        ]
+      },
+      "expected_remedy": "Argentum Nitricum",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Anticipatory anxiety with diarrhea",
+        "Fear of heights, crowds, bridges",
+        "Hurried, impulsive",
+        "Craves sweets but they disagree",
+        "Worse from anticipation",
+        "Better open air"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC010",
+      "demographics": {
+        "age": 12,
+        "gender": "Male",
+        "occupation": "Student"
+      },
+      "case_data": {
+        "presenting_complaint": "Frequent colds, weak immunity, catches every infection going around",
+        "onset": "Since early childhood",
+        "duration": "Chronic, lifelong pattern",
+        "course": "Chronic, gets sick 8-10 times per year",
+        "etiology": "Weak constitution",
+        "mental_emotional": [
+          "Shy, timid, lacks confidence",
+          "Anxious about school performance",
+          "Yielding, doesn't stand up for himself",
+          "Obstinate when pushed"
+        ],
+        "generals": [
+          "Very chilly, always cold",
+          "Profuse, offensive foot sweat",
+          "Slow to heal from any injury"
+        ],
+        "thermal": "Cold (extremely chilly)",
+        "cravings": [],
+        "aversions": [],
+        "sleep": ["Profuse head sweat during sleep, wets pillow"],
+        "dreams": [],
+        "past_history": [
+          "Delayed milestones as infant",
+          "Recurrent ear infections",
+          "Frequent colds and coughs",
+          "Slow healing"
+        ],
+        "family_history": ["Father has tuberculosis history"],
+        "lifestyle": ["Thin, underweight child", "Poor appetite"],
+        "particulars": [
+          {
+            "section": "General",
+            "description": "Catches every cold, slow to recover, weak immunity",
+            "modalities_better": ["Warmth", "Wrapping up head"],
+            "modalities_worse": ["Cold", "Drafts", "Uncovering", "New moon"],
+            "concomitants": ["Profuse offensive foot sweat", "Head sweats at night"]
+          }
+        ]
+      },
+      "expected_remedy": "Silicea",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Weak immunity, frequent infections",
+        "Extremely chilly",
+        "Profuse offensive foot sweat",
+        "Head sweats during sleep",
+        "Yielding, timid, lacks confidence",
+        "Slow healing"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC011",
+      "demographics": {
+        "age": 38,
+        "gender": "Male",
+        "occupation": "Accountant"
+      },
+      "case_data": {
+        "presenting_complaint": "Chronic digestive issues with bloating and gas, especially 4-8 PM",
+        "onset": "Started 3 years ago",
+        "duration": "3 years, chronic",
+        "course": "Chronic, worse with stress",
+        "etiology": "Work stress, irregular eating",
+        "mental_emotional": [
+          "Lack of self-confidence despite being competent",
+          "Anticipatory anxiety before meetings",
+          "Dictatorial at home with family",
+          "Timid in public/work situations",
+          "Intellectual, philosophical"
+        ],
+        "generals": ["Chilly"],
+        "thermal": "Cold (worse cold)",
+        "cravings": ["Sweets", "Warm food and drinks"],
+        "aversions": ["Oysters", "Onions", "Cabbage"],
+        "sleep": ["Sleeps on right side", "Better after midnight"],
+        "dreams": [],
+        "past_history": ["History of kidney stones"],
+        "family_history": ["Father has diabetes", "Mother has gallstones"],
+        "lifestyle": ["Sedentary", "Irregular meals", "Skips breakfast"],
+        "particulars": [
+          {
+            "section": "Abdomen",
+            "description": "Bloating immediately after eating even small amounts, loud rumbling and gurgling, fullness and distension, worse 4-8 PM",
+            "modalities_better": ["Warm drinks", "Warm food", "After midnight", "Eructations"],
+            "modalities_worse": ["4-8 PM (especially 4-5 PM)", "Beans", "Cabbage", "Onions", "Oysters"],
+            "concomitants": ["Early satiety", "Red sand in urine"]
+          },
+          {
+            "section": "Face",
+            "description": "Premature aging, looks older than age, deep furrows, fan-like wrinkles at outer canthi",
+            "modalities_better": [],
+            "modalities_worse": [],
+            "concomitants": []
+          }
+        ]
+      },
+      "expected_remedy": "Lycopodium",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Lack of confidence despite ability",
+        "4-8 PM aggravation",
+        "Bloating immediately after eating",
+        "Loud rumbling, gurgling",
+        "Dictatorial at home, timid in public",
+        "Premature aging appearance",
+        "Right-sided or right to left"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC012",
+      "demographics": {
+        "age": 42,
+        "gender": "Female",
+        "occupation": "Artist"
+      },
+      "case_data": {
+        "presenting_complaint": "Chronic cough with hoarseness, cannot speak, worse evening",
+        "onset": "Started 6 weeks ago after viral infection",
+        "duration": "6 weeks",
+        "course": "Persistent, not improving",
+        "etiology": "After viral respiratory infection",
+        "mental_emotional": [
+          "Sympathetic, feels others' pain deeply",
+          "Anxious when alone, desires company",
+          "Fears thunderstorms and darkness",
+          "Vivid imagination, artistic",
+          "Sensitive to external impressions"
+        ],
+        "generals": [
+          "Tall, slender build",
+          "Easy bleeding, bruises easily"
+        ],
+        "thermal": "Variable",
+        "cravings": ["Cold drinks", "Ice cream", "Salt", "Spicy food"],
+        "aversions": [],
+        "sleep": ["Prefers to sleep on right side", "Cannot lie on left side"],
+        "dreams": ["Vivid, colorful dreams"],
+        "past_history": ["History of nosebleeds", "Easy bruising"],
+        "family_history": ["Mother has tuberculosis history"],
+        "lifestyle": ["Active", "Social", "Artistic pursuits"],
+        "particulars": [
+          {
+            "section": "Throat/Larynx",
+            "description": "Complete hoarseness, cannot speak, dry tickling cough, tightness across chest",
+            "modalities_better": ["Cold drinks (temporarily)", "Sleep", "Rubbing chest"],
+            "modalities_worse": ["Evening", "Lying on left side", "Talking", "Laughing", "Cold air"],
+            "concomitants": ["Burning in chest", "Tickling in larynx"]
+          }
+        ]
+      },
+      "expected_remedy": "Phosphorus",
+      "expected_potency": "200C",
+      "key_indicators": [
+        "Hoarseness, cannot speak",
+        "Sympathetic, desires company",
+        "Fears alone, thunderstorms",
+        "Craves cold drinks, ice cream",
+        "Cannot lie on left side",
+        "Easy bleeding tendency",
+        "Tall, slender build"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC013",
+      "demographics": {
+        "age": 25,
+        "gender": "Female",
+        "occupation": "Student"
+      },
+      "case_data": {
+        "presenting_complaint": "Severe emotional distress after breakup, cannot stop crying, lump in throat",
+        "onset": "Started 1 week ago after relationship ended",
+        "duration": "1 week, acute",
+        "course": "Acute emotional crisis",
+        "etiology": "Grief from breakup, disappointed love",
+        "mental_emotional": [
+          "Constant sighing and sobbing",
+          "Lump sensation in throat",
+          "Mood swings, laughing then crying",
+          "Hysterical behavior",
+          "Brooding, introspective",
+          "Suppressing emotions, silent grief"
+        ],
+        "generals": [],
+        "thermal": "Variable",
+        "cravings": [],
+        "aversions": [],
+        "sleep": ["Sighing in sleep", "Difficulty falling asleep"],
+        "dreams": ["Dreams of ex-partner"],
+        "past_history": ["Generally healthy"],
+        "family_history": ["Mother has anxiety"],
+        "lifestyle": ["Student", "Previously active social life"],
+        "particulars": [
+          {
+            "section": "Throat",
+            "description": "Sensation of lump in throat, better swallowing solids, paradoxically",
+            "modalities_better": ["Swallowing solids", "Deep breathing", "Changing position"],
+            "modalities_worse": ["Emotions", "Thinking of the situation", "Consolation sometimes"],
+            "concomitants": ["Sighing", "Sobbing", "Hiccough"]
+          },
+          {
+            "section": "Abdomen",
+            "description": "Cramping, spasmodic pains",
+            "modalities_better": ["Pressure", "Bending double"],
+            "modalities_worse": ["Emotions"],
+            "concomitants": []
+          }
+        ]
+      },
+      "expected_remedy": "Ignatia",
+      "expected_potency": "200C",
+      "key_indicators": [
+        "Ailments from grief, disappointed love",
+        "Sighing, sobbing",
+        "Lump in throat, better swallowing solids",
+        "Contradictory symptoms",
+        "Hysterical, changeable mood",
+        "Suppressed emotions",
+        "Silent grief"
+      ],
+      "difficulty_level": "Easy"
+    },
+    {
+      "case_id": "TC014",
+      "demographics": {
+        "age": 55,
+        "gender": "Male",
+        "occupation": "Teacher"
+      },
+      "case_data": {
+        "presenting_complaint": "Burning pain in stomach, worse at night, relieved temporarily by eating",
+        "onset": "Started 3 months ago",
+        "duration": "3 months",
+        "course": "Chronic, getting worse",
+        "etiology": "Stress, irregular meals, worry",
+        "mental_emotional": [
+          "Anxious about health, fears disease",
+          "Restless, cannot sit still",
+          "Fastidious, everything must be in order",
+          "Critical of others",
+          "Fears death, especially at night"
+        ],
+        "generals": [
+          "Very chilly, cannot get warm",
+          "Burning pains relieved by heat (paradoxical)"
+        ],
+        "thermal": "Cold (extremely chilly)",
+        "cravings": ["Warm drinks", "Sips frequently"],
+        "aversions": ["Cannot bear sight or smell of food when nauseated"],
+        "sleep": [
+          "Restless, tosses and turns",
+          "Worse after midnight, especially 1-3 AM",
+          "Anxious, fearful at night"
+        ],
+        "dreams": ["Anxious dreams", "Dreams of death"],
+        "past_history": ["History of anxiety", "Perfectionist"],
+        "family_history": ["Father died of heart attack"],
+        "lifestyle": ["Meticulous", "Organized", "Worrier"],
+        "particulars": [
+          {
+            "section": "Stomach",
+            "description": "Burning pain in stomach, worse midnight to 3 AM, temporarily relieved by warm drinks and small amounts of food",
+            "modalities_better": ["Warmth", "Warm drinks", "Small sips", "Company"],
+            "modalities_worse": ["Cold", "After midnight (1-3 AM)", "Lying on affected side"],
+            "concomitants": ["Great anxiety", "Restlessness", "Burning pains"]
+          }
+        ]
+      },
+      "expected_remedy": "Arsenicum Album",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Burning pains better heat",
+        "Worse after midnight, 1-3 AM",
+        "Anxious, restless, fastidious",
+        "Fears death, disease",
+        "Thirst for small sips frequently",
+        "Chilly patient",
+        "Burning relieved by warmth"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC015",
+      "demographics": {
+        "age": 4,
+        "gender": "Female",
+        "occupation": "Preschool"
+      },
+      "case_data": {
+        "presenting_complaint": "High fever with sudden onset, red face, dilated pupils, delirium",
+        "onset": "Sudden onset 6 hours ago",
+        "duration": "6 hours, acute",
+        "course": "Acute, rapidly developing",
+        "etiology": "After playing in hot sun",
+        "mental_emotional": [
+          "Delirium, sees monsters and animals",
+          "Wants to escape, run away",
+          "Violent, tries to bite and hit",
+          "Restless, anxious"
+        ],
+        "generals": [
+          "High fever, hot, dry, red skin",
+          "No thirst despite fever"
+        ],
+        "thermal": "Hot (burning hot)",
+        "cravings": [],
+        "aversions": ["Water"],
+        "sleep": ["Cannot sleep", "Startles in sleep", "Screams"],
+        "dreams": ["Nightmares of monsters"],
+        "past_history": ["Generally healthy child"],
+        "family_history": ["Mother has migraines"],
+        "lifestyle": ["Active child"],
+        "particulars": [
+          {
+            "section": "Head",
+            "description": "Throbbing, bursting headache, face bright red and hot, dilated pupils, photophobia",
+            "modalities_better": ["Semi-erect position", "Bending head backward"],
+            "modalities_worse": ["Jar", "Touch", "Noise", "Light", "Lying flat", "3 PM"],
+            "concomitants": ["Delirium", "Violent behavior", "Hypersensitivity"]
+          },
+          {
+            "section": "Face",
+            "description": "Bright red, hot, flushed face",
+            "modalities_better": [],
+            "modalities_worse": [],
+            "concomitants": []
+          }
+        ]
+      },
+      "expected_remedy": "Belladonna",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Sudden, violent onset",
+        "High fever, hot, red, dry",
+        "Throbbing, pulsating pains",
+        "Delirium, sees monsters",
+        "Dilated pupils",
+        "Hypersensitive to jar, touch, light, noise",
+        "No thirst with fever"
+      ],
+      "difficulty_level": "Easy"
+    },
+    {
+      "case_id": "TC016",
+      "demographics": {
+        "age": 48,
+        "gender": "Female",
+        "occupation": "Journalist"
+      },
+      "case_data": {
+        "presenting_complaint": "Severe left-sided sore throat extending to ear, cannot swallow",
+        "onset": "Started 2 days ago on left side",
+        "duration": "2 days, acute",
+        "course": "Started left, threatening to go right",
+        "etiology": "After suppressing emotions, anger",
+        "mental_emotional": [
+          "Loquacious, talks incessantly, jumps from topic to topic",
+          "Jealous, suspicious",
+          "Worse after sleep, wakes feeling terrible"
+        ],
+        "generals": [
+          "Hot flashes",
+          "Cannot bear anything tight around neck or waist"
+        ],
+        "thermal": "Hot (worse heat)",
+        "cravings": [],
+        "aversions": [],
+        "sleep": ["Worse after sleep", "Wakes feeling worse", "Sleeps into aggravation"],
+        "dreams": [],
+        "past_history": ["Menopausal", "History of varicose veins"],
+        "family_history": ["Mother had hypertension"],
+        "lifestyle": ["Active", "Talkative profession"],
+        "particulars": [
+          {
+            "section": "Throat",
+            "description": "Left-sided sore throat, dark red/purple color, cannot swallow especially empty swallowing, sensation of lump, worse warm drinks",
+            "modalities_better": ["Cold drinks", "Open air"],
+            "modalities_worse": ["After sleep", "Warm drinks", "Empty swallowing", "Touch", "Tight clothing around neck"],
+            "concomitants": ["Pain extends to left ear", "Purple/bluish discoloration"]
+          }
+        ]
+      },
+      "expected_remedy": "Lachesis",
+      "expected_potency": "200C",
+      "key_indicators": [
+        "Left-sided or left to right",
+        "Worse after sleep",
+        "Cannot bear tight clothing around neck",
+        "Loquacious, jumps topics",
+        "Purple/bluish discoloration",
+        "Worse warm drinks",
+        "Jealous, suspicious"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC017",
+      "demographics": {
+        "age": 30,
+        "gender": "Male",
+        "occupation": "Construction Worker"
+      },
+      "case_data": {
+        "presenting_complaint": "Severe bruising and pain after falling from ladder, feels sore all over",
+        "onset": "Trauma 1 day ago",
+        "duration": "1 day, acute",
+        "course": "Acute trauma",
+        "etiology": "Fall from height, blunt trauma",
+        "mental_emotional": [
+          "Says he's fine, doesn't want help",
+          "Wants to be left alone",
+          "Fears being touched due to soreness"
+        ],
+        "generals": ["Sore, bruised feeling all over"],
+        "thermal": "Variable",
+        "cravings": [],
+        "aversions": [],
+        "sleep": ["Bed feels too hard", "Cannot find comfortable position"],
+        "dreams": [],
+        "past_history": ["Generally healthy"],
+        "family_history": [],
+        "lifestyle": ["Physical labor", "Active"],
+        "particulars": [
+          {
+            "section": "General",
+            "description": "Extensive bruising, black and blue marks, sore and tender all over, bed feels too hard",
+            "modalities_better": ["Lying down", "Lying with head low"],
+            "modalities_worse": ["Touch", "Motion", "Damp cold"],
+            "concomitants": ["Fear of being touched", "Says nothing is wrong"]
+          }
+        ]
+      },
+      "expected_remedy": "Arnica Montana",
+      "expected_potency": "200C",
+      "key_indicators": [
+        "Trauma, injury, bruising",
+        "Says 'I'm fine' when clearly injured",
+        "Bed feels too hard",
+        "Fear of being touched",
+        "Sore, bruised feeling",
+        "Black and blue discoloration"
+      ],
+      "difficulty_level": "Easy"
+    },
+    {
+      "case_id": "TC018",
+      "demographics": {
+        "age": 60,
+        "gender": "Female",
+        "occupation": "Retired"
+      },
+      "case_data": {
+        "presenting_complaint": "Chronic constipation, large hard dry stool, no urge to pass stool",
+        "onset": "Lifelong tendency, worse past 5 years",
+        "duration": "Chronic, lifelong",
+        "course": "Progressive worsening",
+        "etiology": "Sedentary lifestyle, aging",
+        "mental_emotional": [
+          "Indecisive, cannot make decisions",
+          "Timid, lacks initiative",
+          "Sad, weeps from music",
+          "Forgetful, confused about identity"
+        ],
+        "generals": [
+          "Obese, chilly",
+          "Dryness of all mucous membranes"
+        ],
+        "thermal": "Cold (worse cold)",
+        "cravings": [],
+        "aversions": ["Meat", "Potatoes"],
+        "sleep": ["Sleeps well"],
+        "dreams": [],
+        "past_history": ["History of anemia", "Slow metabolism"],
+        "family_history": ["Mother had Alzheimer's"],
+        "lifestyle": ["Sedentary", "Lives alone"],
+        "particulars": [
+          {
+            "section": "Rectum",
+            "description": "Severe constipation, no urge even with full rectum, even soft stool difficult to pass, stool recedes after being partly expelled",
+            "modalities_better": ["Warmth", "Evening"],
+            "modalities_worse": ["Morning", "Cold"],
+            "concomitants": ["Dryness of mouth, nose, skin", "Confusion"]
+          }
+        ]
+      },
+      "expected_remedy": "Alumina",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Constipation with no urge",
+        "Even soft stool difficult",
+        "Stool recedes after partly expelled",
+        "Dryness of mucous membranes",
+        "Indecisive, timid",
+        "Confusion about identity",
+        "Weeps from music"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC019",
+      "demographics": {
+        "age": 10,
+        "gender": "Male",
+        "occupation": "Student"
+      },
+      "case_data": {
+        "presenting_complaint": "Bedwetting, involuntary urination during sleep, 3-4 times per week",
+        "onset": "Since age 6",
+        "duration": "4 years, chronic",
+        "course": "Chronic, not improving",
+        "etiology": "Unknown, possibly emotional",
+        "mental_emotional": [
+          "Sympathetic, empathetic child",
+          "Concerned about injustice",
+          "Ailments from grief (grandmother's death 4 years ago)",
+          "Sensitive, emotional"
+        ],
+        "generals": ["Chilly"],
+        "thermal": "Cold (worse cold, better damp weather paradoxically)",
+        "cravings": ["Smoked foods"],
+        "aversions": [],
+        "sleep": ["Deep sleep, difficult to wake", "Bedwetting during sleep"],
+        "dreams": [],
+        "past_history": ["Started after grandmother's death"],
+        "family_history": ["Mother has migraines"],
+        "lifestyle": ["Active child", "Good student"],
+        "particulars": [
+          {
+            "section": "Urinary",
+            "description": "Involuntary urination during sleep, 3-4 times weekly, no daytime issues",
+            "modalities_better": ["Damp weather (paradoxical)", "Warmth"],
+            "modalities_worse": ["Cold dry wind", "Clear weather", "Night during sleep"],
+            "concomitants": ["Deep sleep", "Emotional sensitivity"]
+          }
+        ]
+      },
+      "expected_remedy": "Causticum",
+      "expected_potency": "30C",
+      "key_indicators": [
+        "Involuntary urination during sleep",
+        "Sympathetic, empathetic",
+        "Ailments from grief",
+        "Worse cold dry wind",
+        "Better damp weather (paradoxical)",
+        "Concerned about injustice"
+      ],
+      "difficulty_level": "Moderate"
+    },
+    {
+      "case_id": "TC020",
+      "demographics": {
+        "age": 35,
+        "gender": "Female",
+        "occupation": "Yoga Instructor"
+      },
+      "case_data": {
+        "presenting_complaint": "Chronic asthma, worse at night, must sit up to breathe",
+        "onset": "Since childhood, worse past 2 years",
+        "duration": "Chronic, lifelong",
+        "course": "Progressive, frequent attacks",
+        "etiology": "Family history, suppressed eczema in childhood",
+        "mental_emotional": [
+          "Restless, desires change constantly",
+          "Dissatisfied, nothing pleases",
+          "Desires travel, new experiences",
+          "Romantic, idealistic"
+        ],
+        "generals": [
+          "Weak immunity, catches colds easily",
+          "Emaciation despite good appetite",
+          "Profuse night sweats"
+        ],
+        "thermal": "Chilly but desires fresh air",
+        "cravings": [],
+        "aversions": [],
+        "sleep": ["Profuse sweating during sleep", "Restless"],
+        "dreams": ["Vivid dreams"],
+        "past_history": [
+          "Eczema as child, suppressed with steroids",
+          "Frequent respiratory infections",
+          "Family history of tuberculosis"
+        ],
+        "family_history": ["Father had tuberculosis", "Mother has asthma"],
+        "lifestyle": ["Active", "Travels frequently", "Cannot stay in one place"],
+        "particulars": [
+          {
+            "section": "Respiratory",
+            "description": "Asthma worse at night, must sit up, worse in closed rooms, better open air despite being chilly",
+            "modalities_better": ["Open air", "Travel", "Mountains", "Change of place"],
+            "modalities_worse": ["Closed rooms", "Night", "Cold damp", "Morning"],
+            "concomitants": ["Profuse night sweats", "Constantly changing symptoms", "Weak immunity"]
+          }
+        ]
+      },
+      "expected_remedy": "Tuberculinum",
+      "expected_potency": "200C",
+      "key_indicators": [
+        "Constantly changing symptoms",
+        "Desires change, travel",
+        "Dissatisfied, restless",
+        "Weak immunity, frequent infections",
+        "History of suppressed eczema",
+        "Family history of tuberculosis",
+        "Better open air despite being chilly",
+        "Profuse night sweats",
+        "Emaciation"
+      ],
+      "difficulty_level": "Difficult"
+    }
+  ],
+  "testing_instructions": {
+    "for_evaluator": "For each test case, please assess:",
+    "evaluation_criteria": [
+      "1. Accuracy of remedy selection (correct remedy identified)",
+      "2. Appropriateness of potency selection",
+      "3. Quality of rationale provided",
+      "4. Identification of key characteristic symptoms",
+      "5. Safety considerations addressed",
+      "6. Completeness of prescription guidance"
+    ],
+    "scoring": {
+      "excellent": "90-100% - Remedy, potency, and rationale all correct",
+      "good": "75-89% - Remedy correct, minor issues with potency or rationale",
+      "acceptable": "60-74% - Remedy in top 3 differentials, reasonable justification",
+      "needs_improvement": "Below 60% - Remedy not indicated or major errors"
+    },
+    "notes": [
+      "These cases are based on classical homeopathic literature and real case presentations",
+      "Expected remedies are based on totality of symptoms and classical keynotes",
+      "Some cases may have valid alternative remedies - evaluator should consider differential",
+      "Difficulty levels: Easy (clear keynotes), Moderate (requires differentiation), Difficult (complex/layered)"
+    ]
+  }
+}

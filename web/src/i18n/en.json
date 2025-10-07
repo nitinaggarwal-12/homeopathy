@@ -1,0 +1,14 @@
+{
+  "title": "Classical Homeopathy Portal",
+  "subtitle": "Classical case-taking • Repertorization • Single-remedy guidance",
+  "presentingComplaint": "Presenting complaint",
+  "submitCase": "Submit Case",
+  "repertorize": "Repertorize",
+  "materiaSearch": "Materia Medica Search",
+  "searchPlaceholder": "Search Materia Medica (e.g., burning soles, worse heat)",
+  "language": "Language",
+  "english": "English",
+  "hindi": "Hindi",
+  "results": "Results",
+  "noResults": "No results yet. Try searching."
+}

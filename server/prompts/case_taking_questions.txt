@@ -1,0 +1,48 @@
+# Classical Case Taking Questions (Kent/Hering/Boenninghausen-aligned)
+
+## A. Presenting Complaint (PC)
+- Chief complaint in patient's own words
+- Onset, duration, course
+- Exact sensations (describe the pain/feeling)
+- Location & radiation
+- Modalities: Better/Worse by (time, position, pressure, temperature, weather, motion, rest, food/drink)
+- Concomitants (symptoms occurring alongside)
+
+## B. History of Present Illness (HPI)
+- Sequence of events
+- Etiology/causation (e.g., grief, anger, exposure, suppression)
+- Past treatments & effects
+
+## C. Mental & Emotional State (high weight)
+- Disposition: temperament, fears, anxieties, irritability, depression
+- Memory/concentration
+- Reactions to stress/criticism
+- Dreams (themes, frequency, time)
+- Religious/philosophical/creative tendencies
+
+## D. Generals (high weight)
+- Thermal: hot/cold preference; desire for open air; sensitivity to drafts
+- Sweats (location, odor, staining, timing)
+- Appetite/thirst patterns; cravings/aversions (salt, sweets, spicy, fat, eggs, milk)
+- Sleep: position, quality, time of waking, unrefreshed?
+- Menses/sexual health; pregnancies; menopause (if applicable)
+- Stools/urine (frequency, color, odor, difficulty)
+
+## E. Particulars (local symptoms)
+- Region-wise: head, eyes, ears, nose, throat; chest; abdomen; extremities; skin
+- Side affinity (left/right)
+- Discharges (color, consistency, odor)
+- Skin eruptions: itching, burning, bleeding, scratching modalities
+
+## F. Past History / Family History
+- Major illnesses, surgeries, injuries
+- Vaccinations/suppressions
+- Hereditary tendencies (TB, diabetes, cancer, mental illness)
+
+## G. Lifestyle & Environment
+- Occupation, routines, diet, stimulants (tea/coffee/alcohol), exercise
+- Relationships/social support
+- Spiritual practices
+
+## H. Red Flags (stop & refer)
+- Severe chest pain, stroke signs, acute abdomen, severe dyspnea, persistent high fever, suicidal ideation.
