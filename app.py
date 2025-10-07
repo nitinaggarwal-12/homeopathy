@@ -9,6 +9,14 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
+# For Streamlit Cloud, also check st.secrets (only if secrets.toml exists)
+try:
+    if 'OPENAI_API_KEY' in st.secrets:
+        os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
+except Exception:
+    # No secrets.toml file, use .env instead (local development)
+    pass
+
 from src.translations import t, TRANSLATIONS
 from src.orchestrator import run_full_case_workflow
 from src.embeddings import search as mm_search
